@@ -6,7 +6,8 @@ const store = {
         avatar:
             'https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1',
         inSession: true,
-        onStage: true
+        onStage: true,
+        self: true
     },
     {
         id: 2,
@@ -14,7 +15,7 @@ const store = {
         avatar:
             'https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1',
         inSession: true,
-        onStage: false
+        onStage: true
     },
     {
         id: 3,

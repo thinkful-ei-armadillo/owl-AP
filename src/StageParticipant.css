@@ -1,0 +1,26 @@
+.stage-participant {
+    flex: 1 0 25%;
+    margin: 5px;
+    height: 100px;
+}
+
+.stage-participant-self {
+    position: absolute;
+    bottom: 0;
+    width: 135px; 
+    min-height: 90px; 
+    max-width: 100%; 
+    margin-bottom: 15px; 
+    overflow: hidden; 
+    position: absolute; 
+    left: 50%; 
+    bottom: 0; 
+    border-radius: 3px; 
+    height: 100px;
+    background-color: black;
+}
+
+.stage-participant-self img {
+    height: 50px;
+    width: 50px;
+}
