@@ -1,0 +1,7 @@
+ul {
+  padding: 10px;
+  position: relative;
+  max-height: 100vh;
+  height: 100vh;
+  overflow-y: scroll;
+}

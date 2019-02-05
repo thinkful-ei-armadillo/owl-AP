@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+.sidebar {
+  display: inline-block;
+  position: absolute;
+  width: 330px;
+  height: 100vh;
+  top: 0;
+  left: -0px;
+  font-size: 16px;
+  border-right: 1px solid #eeeeef;
+  text-align: left;
+}
