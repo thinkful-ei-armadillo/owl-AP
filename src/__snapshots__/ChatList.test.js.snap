@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ParticipantList component testing renders the UI as expected 1`] = `
+<ul>
+  <li
+    className="session-participant"
+  >
+    <img
+      alt="user img"
+      src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+    />
+    <div
+      className="participant-info"
+    >
+      <h6>
+        Axe Kubicka
+      </h6>
+      <div
+        className="chat-message"
+      >
+        Hello world
+      </div>
+    </div>
+  </li>
+  <li
+    className="session-participant"
+  >
+    <div
+      className="participant-info"
+    >
+      <div
+        className="chat-message"
+      >
+        Caty Flucker gave a thumbs up
+      </div>
+    </div>
+  </li>
+  <li
+    className="session-participant"
+  >
+    <div
+      className="participant-info"
+    >
+      <div
+        className="chat-message"
+      >
+        Frank Runciman gave a thumbs down
+      </div>
+    </div>
+  </li>
+  <li
+    className="session-participant"
+  >
+    <div
+      className="participant-info"
+    >
+      <div
+        className="chat-message"
+      >
+        Koren Templeton raises their hand
+      </div>
+    </div>
+  </li>
+  <li
+    className="session-participant"
+  >
+    <div
+      className="participant-info"
+    >
+      <div
+        className="chat-message"
+      >
+        Koren Templeton claps
+      </div>
+    </div>
+  </li>
+  <li
+    className="session-participant"
+  >
+    <div
+      className="participant-info"
+    >
+      <div
+        className="chat-message"
+      >
+        Koren Templeton joins
+      </div>
+    </div>
+  </li>
+  <li
+    className="session-participant"
+  >
+    <div
+      className="participant-info"
+    >
+      <div
+        className="chat-message"
+      >
+        Ashla Attwool leave
+      </div>
+    </div>
+  </li>
+  <li
+    className="session-participant"
+  >
+    <div
+      className="participant-info"
+    >
+      <div
+        className="chat-message"
+      >
+        Axe Kubicka joins the stage
+      </div>
+    </div>
+  </li>
+  <li
+    className="session-participant"
+  >
+    <div
+      className="participant-info"
+    >
+      <div
+        className="chat-message"
+      >
+        Axe Kubicka leaves the stage
+      </div>
+    </div>
+  </li>
+</ul>
+`;

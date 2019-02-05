@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Participant component testing renders the UI as expected 1`] = `
+<div
+  className="stage-participant"
+>
+  <div
+    className="info-status"
+  >
+    Ronnie
+  </div>
+  <img
+    alt="Ronnie"
+    src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1'"
+  />
+</div>
+`;

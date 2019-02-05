@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ParticipantList component testing renders the UI as expected 1`] = `
+<div
+  className="stage-container"
+>
+  <div
+    className="stage-participant-self"
+  >
+    <div
+      className="info-status"
+    >
+      Koren Templeton
+    </div>
+    <img
+      alt="Koren Templeton"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+  </div>
+  <div
+    className="stage-participant"
+  >
+    <div
+      className="info-status"
+    >
+      Caty Flucker
+    </div>
+    <img
+      alt="Caty Flucker"
+      src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+    />
+  </div>
+  <div
+    className="stage-participant"
+  >
+    <div
+      className="info-status"
+    >
+      Ashla Attwool
+    </div>
+    <img
+      alt="Ashla Attwool"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+  </div>
+</div>
+`;
